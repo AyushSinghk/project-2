@@ -1,2 +1,2 @@
 # project-2
-E -commerce project using HTML,CSS,JS
+create E -commerce website using HTML,CSS,JS
